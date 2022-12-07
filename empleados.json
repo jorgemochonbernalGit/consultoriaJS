@@ -1,0 +1,24 @@
+{
+  "empleados": [
+    {
+      "id": 197,
+      "name": "poiu4",
+      "salary": "1250"
+    },
+    {
+      "id": 203,
+      "name": "Scar",
+      "salary": 120
+    },
+    {
+      "id": "444",
+      "name": "jorge",
+      "salary": "mochon"
+    },
+    {
+      "id": "28005",
+      "name": "jorge",
+      "salary": "mochon"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+    "empleados": [
+        {
+            "id": 153,
+            "name": "MONGOLIN",
+            "salary": 23000
+        },
+        {
+            "id": 154,
+            "name": "KAYLER LA CAMARA YA",
+            "salary": 23000
+        },
+        {
+            "id": 165,
+            "name": "HJAUNA",
+            "salary": 1390
+        },
+        {
+            "id": 195,
+            "name": "Charmander",
+            "salary": 2001
+        },
+        {
+            "id": 196,
+            "name": "Bulbasur",
+            "salary": 125
+        },
+        {
+            "id": 197,
+            "name": "Raichu",
+            "salary": 1250
+        },
+        {
+            "id": 200,
+            "name": "LAGARTIJO",
+            "salary": 233000
+        },
+        {
+            "id": 201,
+            "name": "IGUANA",
+            "salary": 233000
+        },
+        {
+            "id": 202,
+            "name": "LAGARTO",
+            "salary": 233000
+        },
+        {
+            "id": 203,
+            "name": "Scar",
+            "salary": 120
+        },
+        {
+            "id": 204,
+            "name": "Mufasa",
+            "salary": 120
+        }
+    ]
+}
